@@ -1,0 +1,15 @@
+:root {
+    --font-family-main: 'Inter-Variable', sans-serif;
+    --font-family-accent: 'DMSans-Variable', sans-serif;
+    
+    --primary-color-dark-blue: #043873;
+    --primary-color-light-blue: #4f9cf9;
+
+    --secondary-color-yellow: #ffe492;
+    --secondary-color-light-blue: #a7cefc;
+    --secondary-color-white: #fff;
+    --secondary-color-black: #212529;
+
+    --letter-spacing-text: -2%;
+
+}

@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Inter-Variable';
+    src:
+      local('Inter-Variable'),
+      url(./Inter-Variable.woff2) format('woff2 supports variations'),
+      url(./Inter-Variable.woff2) format('woff2-variations');
+    font-weight: 100 900;
+    font-display: swap; 
+}
+
+@font-face {
+  font-family: 'DMSans-Variable';
+  src:
+    local('DMSans-Variable'),
+    url(./DMSans-VariableFont_opsz\,wght.woff2) format('woff2 supports variations'),
+    url(./DMSans-VariableFont_opsz\,wght.woff2) format('woff2-variations');
+    font-weight: 100 900;
+    font-display: swap;
+}
